@@ -1,3 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="app_name">Meu Primeiro App Dio</string>
+
+    <string name="select_language">Selecione um idioma</string>
+    <string name="main_text">Aqui vai o texto original que será traduzido.</string>
+
+    <string-array name="languages_list">
+        <item>Português</item>
+        <item>Inglês</item>
+        <item>Espanhol</item>
+        <item>Francês</item>
+        <item>Alemão</item>
+    </string-array>
 </resources>
